@@ -1,0 +1,60 @@
+# Bamboo Heaven — Generative Engine Optimization Map
+
+> A bedding and home textiles business.
+
+---
+
+## Pages
+
+### Home
+https://bamboo-heaven-407476df.zappy5.app
+Discover luxurious bamboo sheet sets from Bamboo Heaven. Eco-friendly, hypoallergenic bedding designed for the ultimate sleep experience.
+
+### Products
+https://bamboo-heaven-407476df.zappy5.app/products
+Explore our complete collection of luxury bamboo sheets. From classic Grey to vibrant colors, find the perfect eco-friendly bedding for your home.
+
+### About
+https://bamboo-heaven-407476df.zappy5.app/about
+Learn about Bamboo Heaven's mission to provide eco-friendly, luxury bamboo bedding. Discover our commitment to sustainability and exceptional sleep quality.
+
+### Contact
+https://bamboo-heaven-407476df.zappy5.app/contact
+Get in touch with Bamboo Heaven for questions about our luxury bamboo bedding. We're here to help you find the perfect eco-friendly sheets.
+
+## Legal & Policy
+
+### Privacy Policy
+https://bamboo-heaven-407476df.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://bamboo-heaven-407476df.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://bamboo-heaven-407476df.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Bamboo Heaven
+Bamboo Heaven is a business in the bedding and home textiles industry.
+
+## Target Audience
+- Eco-Friendly Families
+- Luxury Sleep Seekers
+- Allergy Sufferers
+- Wellness Influencers
+
+## Industry
+bedding and home textiles
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://bamboo-heaven-407476df.zappy5.app/sitemap.xml
+- **Robots.txt**: https://bamboo-heaven-407476df.zappy5.app/robots.txt

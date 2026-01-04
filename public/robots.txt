@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bamboo-heaven-407476df.zappy5.app/sitemap.xml
